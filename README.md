@@ -15,21 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Gokul+Sree+Chandra+👋;Focused+on+NLP%2C+LLMs%2C+and+AI+Agents;Bringing+language+to+life+with+code+🚀" alt="Typing SVG" />
-</p>
-
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Gokul+Sree+Chandra+👋;Focused+on+NLP%2C+LLMs%2C+and+AI+Agents;Bringing+language+to+life+with+code+🚀" alt="Typing SVG" />
-</p>
-
----
-
-Hey! I’m Gokul —  *“The mind behind the model.”*  
-Currently focused on **Natural Language Processing**, **LLMs**, and **AI Agents**, after completing my foundation in PyTorch & traditional ML.
-
-Exploring how language meets logic through **RAG pipelines**, **Neural Networks**, and **Reinforcement Learning** — building not just models, but minds that reason.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=7000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&lines=Hey!+I’m+Gokul+—+“The+mind+behind+the+model.”;Focused+on+NLP%2C+LLMs%2C+and+AI+Agents;Exploring+RAG+pipelines%2C+Neural+Networks+and+RL;Building+not+just+models%2C+but+minds+that+reason.)
 
 ---
 
