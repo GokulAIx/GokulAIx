@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Typing SVG -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=7000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&lines=Hey!+I’m+Gokul+—+“The+mind+behind+the+model.”)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1500&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&lines=Hey!+I’m+Gokul;“The+mind+behind+the+model.”)
+
 
 ---
 
