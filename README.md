@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 Just someone trying to make machine learning models a little smarter,  
 a little faster, and a lot more useful.
 
-Focused on NLP, LLMs, and AI agents —  
+Focused on NLP, LLMs, and AI agents -  
 exploring how intelligence scales when language meets purpose.
 
 
