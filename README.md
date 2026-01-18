@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Typing SVG -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Hey!;I+build+intelligent+AI+systems;with+reliable+backend+systems)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=I'm Gokul)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&color=FFD700&width=800&lines=I+build+intelligent+AI+systems)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&color=FFD700&width=800&lines=with+reliable+backend+systems)
 
 
 
